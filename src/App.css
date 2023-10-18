@@ -1,0 +1,155 @@
+.nav {
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+
+.sidenav {
+  display: flex;
+  float: right;
+
+}
+
+.dash{
+  display: flex;
+  justify-content: space-between;
+}
+
+.texts {
+  padding-left: 10px;
+  padding-right: 20px;
+}
+
+.Textform {
+  display: block;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  user-select: none;
+  padding-right: 17px;
+}
+
+
+
+.form{
+  display: flex;
+  flex-direction: column;
+  font-size: medium;
+  font-weight: 400;
+  font-size: small;
+  padding: 20px;
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+}
+
+.heading{
+  display: flex;
+}
+
+.input1{
+  width: 600px;
+  height: 30px;
+ 
+}
+
+.input2{
+  height: 125px;
+  width: 610px;
+}
+
+.head2{
+  display: flex;
+}
+
+.input3{
+  width: 390px;
+  height: 30px;
+}
+
+.input4{
+  width: 1250px;
+  height: 30px;
+}
+
+.head4{
+  display: flex;
+
+}
+
+.input5{
+  width: 605px;
+  height: 30px;
+}
+
+.input6{
+  width: 1250px;
+  height: 30px;
+}
+
+.bttn{
+  float: right;
+  display: flex;
+
+  
+}
+
+.back{
+  padding-top: 5px;
+  padding-left: 50px;
+  padding-bottom: 5px;
+  padding-right: 50px;
+  margin-right: 20px;
+  border-radius: 4px;
+  border: 0.1px solid black;
+  background-color: white;
+}
+
+.btn{
+  margin-left: 20px;
+  padding: 5px 50px;
+
+}
+
+.doudgnutchart{
+  height: 8vh;
+
+}
+
+
+h4{
+  font-weight: 400;
+  opacity: 0.5;
+}
+
+
+.mediad{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.textad{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.ads{
+  display: flex;
+  justify-content:space-evenly
+}
+
+.btnext{
+  float: right;
+  margin: 20px;
+}
+
